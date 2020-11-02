@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,700;1,600&display=swap');
+
+body{
+    background-image: url("https://i.imgur.com/hmRwyH3.jpg");
+    font-family: 'Raleway', sans-serif;
+}
+.head-image{
+    height: auto;
+    width: 45%;
+    display: block;
+    float: right;
+    box-shadow: 2px 2px 2px #9494b8;
+}
+h1{
+    text-shadow: 2px 2px 2px #9494b8;
+    color: #33334d;
+}
+button{
+    margin: 2px;
+    background-color: #33334d;
+    box-shadow: 2px 2px 2px #5c5c8a;
+
+}
