@@ -6,12 +6,16 @@ import { AppComponent } from './app.component';
 import { PortfolioComponent } from './portfolio/portfolio.component';
 import { FormsModule } from '@angular/forms';
 import { HeaderComponent } from './header/header.component';
+import { SidebarComponent } from './sidebar/sidebar.component';
+
 
 @NgModule({
   declarations: [
     AppComponent,
     PortfolioComponent,
-    HeaderComponent
+    HeaderComponent,
+    SidebarComponent
+    
   ],
   imports: [
     BrowserModule,
