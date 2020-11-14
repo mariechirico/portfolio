@@ -6,8 +6,15 @@ import { Component} from '@angular/core';
   styleUrls: ['./sidebar.component.css']
 })
 export class SidebarComponent{
-
+ 
   constructor() { }
 
+  protected showList(){
+    var myList = document.getElementById("hide-at-first");
+
+    myList.style.display = "block";
+    
+
+  }
 
 }

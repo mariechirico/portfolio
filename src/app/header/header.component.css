@@ -19,5 +19,11 @@ button{
     margin: 2px;
     background-color: #33334d;
     box-shadow: 2px 2px 2px #5c5c8a;
-
+}
+.header-MMC{
+    background: rgba(238, 238, 238, 0.9);
+    padding: 2%;
+}
+.social-buttons{
+    margin-bottom: 1%;
 }

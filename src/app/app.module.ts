@@ -12,10 +12,8 @@ import { SidebarComponent } from './sidebar/sidebar.component';
 @NgModule({
   declarations: [
     AppComponent,
-    PortfolioComponent,
     HeaderComponent,
-    SidebarComponent
-    
+    SidebarComponent    
   ],
   imports: [
     BrowserModule,
